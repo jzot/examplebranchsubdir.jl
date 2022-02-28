@@ -1,0 +1,4 @@
+name = "ExampleBranchSubdir"
+uuid = "82ffb363-eeaf-4dd6-a8d6-d43c95d794f8"
+authors = ["Bill Burdick <bill.burdick@gmail.com>"]
+version = "0.1.0"
